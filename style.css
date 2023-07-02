@@ -244,7 +244,7 @@ section {
 }
 
 .menu {
-    background-image: url(/image/menu-bg.png);
+    background-image: url(image/menu-bg.png);
     background-position: center;
     background-size: cover;
 }
@@ -378,7 +378,7 @@ section {
 }
 
 .book {
-    background-image: url(/image/book-bg.png);
+    background-image: url(image/book-bg.png);
     background-position: center;
     background-size: cover;
 }
